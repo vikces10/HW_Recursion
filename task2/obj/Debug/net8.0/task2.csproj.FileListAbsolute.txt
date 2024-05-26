@@ -1,0 +1,15 @@
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/Языки программирования/Webinar7/HW_Recursion/task2/obj/Debug/net8.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/Языки программирования/Webinar7/HW_Recursion/task2/obj/Debug/net8.0/task2.AssemblyInfoInputs.cache
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/Языки программирования/Webinar7/HW_Recursion/task2/obj/Debug/net8.0/task2.AssemblyInfo.cs
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/Языки программирования/Webinar7/HW_Recursion/task2/obj/Debug/net8.0/task2.csproj.CoreCompileInputs.cache
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/Языки программирования/Webinar7/HW_Recursion/task2/obj/Debug/net8.0/task2.sourcelink.json
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/Языки программирования/Webinar7/HW_Recursion/task2/bin/Debug/net8.0/task2
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/Языки программирования/Webinar7/HW_Recursion/task2/bin/Debug/net8.0/task2.deps.json
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/Языки программирования/Webinar7/HW_Recursion/task2/bin/Debug/net8.0/task2.runtimeconfig.json
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/Языки программирования/Webinar7/HW_Recursion/task2/bin/Debug/net8.0/task2.dll
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/Языки программирования/Webinar7/HW_Recursion/task2/bin/Debug/net8.0/task2.pdb
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/Языки программирования/Webinar7/HW_Recursion/task2/obj/Debug/net8.0/task2.dll
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/Языки программирования/Webinar7/HW_Recursion/task2/obj/Debug/net8.0/refint/task2.dll
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/Языки программирования/Webinar7/HW_Recursion/task2/obj/Debug/net8.0/task2.pdb
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/Языки программирования/Webinar7/HW_Recursion/task2/obj/Debug/net8.0/task2.genruntimeconfig.cache
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/Языки программирования/Webinar7/HW_Recursion/task2/obj/Debug/net8.0/ref/task2.dll
